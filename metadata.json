@@ -1,0 +1,5 @@
+{
+  "name": "변재형대왕님의 Corporate Management System",
+  "description": "A web application to manage company information and their fiscal years, featuring create, read, update, and delete functionalities with a clean, modern user interface.",
+  "requestFramePermissions": []
+}
